@@ -1,0 +1,33 @@
+.container{
+
+}
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.icon-group{
+    /* display: flex; */
+    /* justify-content: center; */
+    /* align-items: center; */
+}
+.item_group_container{
+display: flex;
+justify-content: space-around;
+align-items: center;
+background-color: blueviolet;
+width: 30%;
+height: 300px;
+border-radius: 1rem;
+}
+.item{
+    display: flex;
+    align-items: center;
+    display: flex;
+    align-items: center;
+    padding: 1rem;
+}
+.item p{
+    padding-left: 1rem;
+}
